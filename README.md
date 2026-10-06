@@ -1,4 +1,8 @@
-# Week 2 — Quiz Game
+# 第二次课课堂作业 — Quiz Game
+
+本项目是第二次课的课堂作业。
+
+- 课堂作业仓库：https://github.com/jz0530/2412190609webclasswork2
 
 使用原生 HTML、CSS、JavaScript 完成的课堂答题小游戏。直接打开 index.html，或使用 VS Code Live Server 运行。
 
