@@ -3,6 +3,9 @@
 本项目是第二次课的课堂作业。
 
 - 课堂作业仓库：https://github.com/jz0530/2412190609webclasswork2
+- 在线演示：https://2412190609webclasswork2.vercel.app/
+
+此前误放到 webhomework2 的版本仅作为备份保留，请以以上课堂作业仓库和演示地址为准。
 
 使用原生 HTML、CSS、JavaScript 完成的课堂答题小游戏。直接打开 index.html，或使用 VS Code Live Server 运行。
 
